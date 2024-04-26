@@ -1,25 +1,33 @@
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPWYnA24-DQfd7MNNb4n33pV6NgKrZp1oSOg&s" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Sushilkumar Yadav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+<h1 align="center">Hi <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Sushilkumar Yadav.</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SushilkumarDev&label=Profile%20views&color=0e75b6&style=flat" alt="SushilkumarDev" /> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/SushilkumarDev?label=Followers&style=social"> •
+  <img src="https://img.shields.io/github/stars/SushilkumarDev?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
   
+</p>
+<img align="right" alt="Coding" Width="500" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" height="305" width="48px"/>
 
-- 🔭 🔭 I'm currently immersed in the world of Mechanical Engineering.  
+
+
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
+
+ <p align="left"> • 👩🏻‍🎓 Student at <strong>SKNSCOE</strong> Pandharpur,<strong>India.</strong></p>
+  <p align="left"> • 🌱 I'm Currently <strong>learning</strong> Something <strong>cool.</strong></p>
+  <p align="left">• 💬 Ask me about <strong> Java , Python , HTML , CSS , SQL , Javascript.</strong></p>
+  <p align="left"> • 😄 Pronouns : <strong>he / him / his</strong></p>
+   <p align="left">• 🚀 <strong>Know more about me  <a href="https://sushilkumar.rf.gd/" target="_blank">here </a></strong> !</p>
+ <p align="left">• 🔭 Currently Working on <strong>Cancer Detection Using ML.</strong></p>
+
+ 
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Fire away! I'm well-versed in Java Full Stack development, testing methodologies, and the surrounding technologies. Let's explore how we can leverage them for your project.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
+ <p align="left"> • 🖥️ Always intrested in <strong>Coding</strong> & new learnings.</p>
+ 
 <h1></h1>
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > Contribution Graph:</h3>
 
@@ -121,6 +129,14 @@
 
 <br/>  
 
+<h1></h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > GITHUB PROFILE TROPHY:</h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=1200 src="https://github-profile-trophy.vercel.app/?username=SushilkumarDev&column=8&no-frame=true"/>
+ 
+</a>
+
+<h1></h1>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > My Github Statistics:</h3> 
 
@@ -135,8 +151,7 @@
 </p>
 <br/>  
 
-
-## Recent Blog Posts  
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > Recent Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
