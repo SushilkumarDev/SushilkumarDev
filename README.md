@@ -115,11 +115,16 @@
 
 
 ## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=SushilkumarDev&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilkumarDev&hide_border=true&layout=compact" align="center" /></div>
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilkumarDev&layout=compact&hide=php,c,html,roff&langs_count=10" alt="Shruti3004" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SushilkumarDev&show_icons=true" alt="Shruti3004" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilkumarDev&layout=compact" />
+</p>
 <br/>  
 
 
