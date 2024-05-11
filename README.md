@@ -32,8 +32,7 @@
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > Contribution Graph:</h3>
 
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=SushilkumarDev&bg_color=white&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=SushilkumarDev&custom_title=SushilkumarDev's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <h1></h1>
 
 
@@ -137,19 +136,37 @@
 </a>
 
 <h1></h1>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > Top Open Source </h3>
 
-<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > My Github Statistics:</h3> 
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=SushilkumarDev&repo=MiroTalk-SFU&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SushilkumarDev/MiroTalk-SFU)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=SushilkumarDev&repo=Health-care-System&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SushilkumarDev/Health-care-System)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=SushilkumarDev&repo=Top-100-Java-Codes&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SushilkumarDev/Top-100-Java-Codes)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=SushilkumarDev&repo=Java-Practical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/SushilkumarDev/Java-Practical)
+
+<p align="left">
+  <a href="https://github.com/SushilkumarDev?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SushilkumarDev&layout=compact&hide=php,c,html,roff&langs_count=10" alt="Shruti3004" />
+  <a href="https://github.com/SushilkumarDev">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilkumarDev&theme=radical&border=7F3FBF&background=0D1117" alt="Sushilkumar's GitHub streak"/>
+  </a>
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SushilkumarDev&show_icons=true" alt="Shruti3004" />
+  <a href="https://github.com/SushilkumarDev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SushilkumarDev&theme=radical" alt="Sushilkumar's GitHub Contribution"/>
+  </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SushilkumarDev&layout=compact" />
-</p>
-<br/>  
+
+<a> 
+    <a href="https://github.com/SushilkumarDev"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=SushilkumarDev&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/SushilkumarDev"><img alt="Sushilkumar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=SushilkumarDev&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 <h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > Recent Blog Posts:</h3>
 <!-- BLOG-POST-LIST:START -->  
