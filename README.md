@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Brown and Gray Simple Personal LinkedIn Banner.png" align="center" style="width: 100%" />
+<img src="White Minimalist Corporate Personal Profile LinkedIn Banner.png" align="center" style="width: 100%" />
 </div>  
   
 <h1 align="center">Hi <img src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">, I'm Sushilkumar Yadav.</h1>
